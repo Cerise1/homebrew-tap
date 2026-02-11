@@ -1,6 +1,6 @@
 cask "pocketdex" do
-  version "0.9.36"
-  sha256 "56e3bf5fabce7ffca82517b5ba4e1ecc04fd81c5c7572e94a34aa220b24a4dfb"
+  version "0.9.37"
+  sha256 "0c86a339eb264ddc8737d623d2d74667f9a2d99fdbc6f1eb0a1cdfd7669fea7c"
 
   url "https://github.com/Cerise1/PocketDex/releases/download/v#{version}/PocketDex-macOS-v#{version}.zip",
       verified: "github.com/Cerise1/PocketDex/"
